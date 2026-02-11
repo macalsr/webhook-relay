@@ -1,4 +1,4 @@
-````md
+
 # Projeto - API (Spring Boot) + PostgreSQL
 
 API em **Spring Boot** com **PostgreSQL** e migrations via **Flyway**.
