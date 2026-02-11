@@ -3,6 +3,10 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.idea/
+*.iml
+.vscode/
+.env
 
 ### STS ###
 .apt_generated
@@ -16,7 +20,6 @@ target/
 ### IntelliJ IDEA ###
 .idea
 *.iws
-*.iml
 *.ipr
 
 ### NetBeans ###
@@ -29,5 +32,3 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
-.vscode/
